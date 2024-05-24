@@ -1,0 +1,10 @@
+
+Ÿ	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(òçËƒıÿÿÿÿ8 ŸÜªú1J$155031fb-0020-4ffd-a183-ee5290208bd9
+Ÿ	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(ƒÛ ùÿÿÿÿ8 ŸÜªú1J$bd151e54-921b-4cb7-ad32-12b84e207cb3
+‚
+java:S1319-"`The type of "var" should be an interface such as "Map" rather than the implementation "HashMap".(Ûì¢Öøÿÿÿÿ8ìüİªú1
+“
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê—¸8½Óİªú1J$abf1de6c-b447-44c5-a992-068e334b5d7c
+‚
+java:S6213-":Rename this variable to not match a restricted identifier.(Ûì¢Öøÿÿÿÿ8ÈŸÜªú1J$e294f313-59b4-4350-bae9-9c8b4c327a95
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(Õ”Àïşÿÿÿÿ8ÉŸÜªú1J$c3f8e18b-325a-4bf3-92a1-ef48e8d5cf32

@@ -1,0 +1,16 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıìç‘8éÂÄ£ú1J$4903d14c-286c-4b82-a9eb-23ce67446106
+²
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Î€v8ëÂÄ£ú1J$1dd1ab51-d947-4a87-9fa2-5bf9b44e7e7d
+¤
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "book".(¾¾ôøÿÿÿÿ8ìÂÄ£ú1J$037bf6ef-88dc-4b68-bd9c-98e75a16df61
+•
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(—«† 8‹ÃÄ£ú1J$b406089b-63e5-4e7e-a228-95feaab51a63
+\
+java:S2225"Return a non null object.(¥¹ï8ÃÄ£ú1J$e05dea22-1cea-4846-8258-4bad898ff8af
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(Ì˜¨Ìûÿÿÿÿ8¼½Ì£ú1J$07dc6c78-dea3-476e-b9a6-8b30fdf8a65b
+r	java:S106E"+Replace this use of System.out by a logger.(†…‡„üÿÿÿÿ8•ÃÄ£ú1J$8bafa55a-fccd-4b10-a7ad-5714ba3b5923
+r	java:S106G"+Replace this use of System.out by a logger.(Ûëéûÿÿÿÿ8•ÃÄ£ú1J$bc5a5608-0ca0-46e7-8a0b-ae8440ddf10d
+r	java:S106I"+Replace this use of System.out by a logger.(ôêçÊÿÿÿÿÿ8–ÃÄ£ú1J$acdd8164-45f7-476d-9cdf-f63372728f98
+r	java:S106L"+Replace this use of System.out by a logger.(ÃøŞ»üÿÿÿÿ8–ÃÄ£ú1J$2b491b15-f97b-4a74-89aa-659d7c49deb3

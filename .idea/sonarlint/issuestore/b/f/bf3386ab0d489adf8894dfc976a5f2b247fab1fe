@@ -1,0 +1,4 @@
+
+l	java:S106	"+Replace this use of System.out by a logger.(ÇÑ×8éËÄú1J$5e8eeb8f-ce5e-421e-822b-dda0958cd26c
+”
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ôº¹,8ìËÄú1J$16441cd3-ac28-4a85-b33f-07a59c2a4b12

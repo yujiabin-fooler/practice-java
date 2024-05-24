@@ -1,0 +1,12 @@
+
+l
+java:S1104!"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8íÌ¤ú1
+m
+java:S1104""PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8íÌ¤ú1
+q
+java:S1104#"TMake phoneNum a static final constant or non-public and provide accessors if needed.(ô†ïĞ8íÌ¤ú1
+u
+java:S1104$"SMake address a static final constant or non-public and provide accessors if needed.(×âÌÑøÿÿÿÿ8íÌ¤ú1
+~	java:S125"<This block of commented-out lines of code should be removed.(ö¥¿Î8‚Öø£ú1J$cb20f3e2-4345-4803-88ce-61ea8a8d378a
+–
+java:S2975("SRemove this "clone" implementation; use a copy constructor or copy factory instead.(æÎŠÕ8ƒÖø£ú1J$71c33954-04f2-4ca0-82be-6d109ef8727e

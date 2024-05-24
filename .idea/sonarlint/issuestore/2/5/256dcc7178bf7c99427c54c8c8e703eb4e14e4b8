@@ -1,0 +1,10 @@
+
+m
+java:S1104"PMake Name a static final constant or non-public and provide accessors if needed.(õ¤üà8ŒÉÕ¨ú1
+q
+java:S1104"TMake HourWage a static final constant or non-public and provide accessors if needed.(ŸçŒŸ8ŒÉÕ¨ú1
+q
+java:S1104"TMake WorkTime a static final constant or non-public and provide accessors if needed.(·°Ü8ŒÉÕ¨ú1
+k	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¤üà8ÉÕ¨ú1
+o	java:S116"SRename this field "HourWage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸçŒŸ8ÉÕ¨ú1
+o	java:S116"SRename this field "WorkTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·°Ü8ÉÕ¨ú1

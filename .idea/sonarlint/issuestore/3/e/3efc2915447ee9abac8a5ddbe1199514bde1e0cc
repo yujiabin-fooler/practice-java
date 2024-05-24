@@ -1,0 +1,15 @@
+
+Q
+java:S1066"/Merge this if statement with the enclosing one.(”éô¯şÿÿÿÿ8’ÑÏªú1
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ø¸íóÿÿÿÿÿ8”ÑÏªú1
+N
+java:S1153 "1Directly append the argument of String.valueOf().(ü‘Úæ8—ÑÏªú1
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8÷ÑÏªú1
+\
+java:S6213":Rename this variable to not match a restricted identifier.(ÊºÂÌúÿÿÿÿ8ùÑÏªú1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÊºÂÌúÿÿÿÿ8ûÑÏªú1
+L	java:S106"+Replace this use of System.out by a logger.(ô¦ôñüÿÿÿÿ8ûÑÏªú1
+G	java:S106"+Replace this use of System.out by a logger.(åÄ…’8üÑÏªú1
+G	java:S106 "+Replace this use of System.out by a logger.(ü‘Úæ8„ÒÏªú1

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotation" />
+        <module name="jvm" />
+        <module name="data-structure" />
+        <module name="rpc" />
+        <module name="io" />
+        <module name="sort-algorithm" />
+        <module name="distributionlock" />
+        <module name="leetcode" />
+        <module name="redis" />
+        <module name="design-pattern" />
+        <module name="reflect" />
+        <module name="skiplist" />
+        <module name="json" />
+        <module name="ioc" />
+        <module name="hashmap" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="design-pattern" options="-parameters" />
+      <module name="sort-algorithm" options="-parameters" />
+    </option>
+  </component>
+</project>
