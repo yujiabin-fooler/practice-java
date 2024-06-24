@@ -1,0 +1,14 @@
+
+f	java:S106	"+Replace this use of System.out by a logger.(Ú£Ï«J$4435feef-f876-466b-b935-e5eb61592001
+k	java:S106"+Replace this use of System.out by a logger.(¿íßùÿÿÿÿJ$27e5ea25-500f-4f85-9294-84f302184e08
+f	java:S106"+Replace this use of System.out by a logger.(Ìü«J$71d77edc-c926-4266-ab57-8cd0dac87885
+f	java:S106"+Replace this use of System.out by a logger.(‚ƒÙôJ$af1761c3-7c7f-4d1f-9b61-d34f77dcdc29
+k	java:S106"+Replace this use of System.out by a logger.(Æ€ÚøÿÿÿÿJ$d8648936-0b07-4517-b093-ee3932784f71
+f	java:S106"+Replace this use of System.out by a logger.(—¡‹÷J$af649fbe-9b18-4536-bc9b-e332340f4416
+f	java:S106""+Replace this use of System.out by a logger.(£¬ÒßJ$7eee46d6-5107-43ee-9606-ca89d1859663
+k	java:S106&"+Replace this use of System.out by a logger.(ê«õ‡ùÿÿÿÿJ$d7e0d4f7-1a78-4fce-a270-42c44ae07d5b
+k	java:S106*"+Replace this use of System.out by a logger.(‡Â½«ùÿÿÿÿJ$fa276a3e-1957-41bb-8927-889871906ab4
+r
+java:S1144"1Remove this unused private "MyClass" constructor.(û¯ŸúÿÿÿÿJ$96016091-4769-498a-8a35-a9f495f53f01
+z
+java:S1144)"9Remove this unused private "privateMyClassMethod" method.(¾¢ÈÍûÿÿÿÿJ$b62c1d54-63fe-44bf-9d49-dc30d629761c

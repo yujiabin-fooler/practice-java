@@ -1,0 +1,11 @@
+
+’
+java:S1104"VMake parentName a static final constant or non-public and provide accessors if needed.(Ñµñ‡J$4595233d-0c84-4ef8-a206-c7ed54ffd523
+k	java:S106"+Replace this use of System.out by a logger.(àİÊ‘úÿÿÿÿJ$393819f7-6229-4eb5-9668-70b714ba9674
+k	java:S106"+Replace this use of System.out by a logger.(íÜÉşÿÿÿÿJ$9a65456c-bf02-452d-a30a-c07eac9d4ba6
+k	java:S106"+Replace this use of System.out by a logger.(ÄØøäúÿÿÿÿJ$966f9c1e-9537-48bf-b50e-9e269fa4e779
+k	java:S106"+Replace this use of System.out by a logger.(«ÆÔıÿÿÿÿJ$6ff62043-3658-4868-bf2b-5549d0b24a91
+k	java:S106!"+Replace this use of System.out by a logger.(Ü¦×ĞøÿÿÿÿJ$faf2ef25-f9a6-44ab-9f97-adfd6a8fe0d5
+f	java:S106%"+Replace this use of System.out by a logger.(÷•¢ßJ$b1c106cc-b719-4417-9335-4252a5eeddaf
+y
+java:S1144$"=Remove this unused private "privateParentClassMethod" method.(½ÆŒ”J$bd2ae518-f75c-4c10-b6ae-31afd0063dce

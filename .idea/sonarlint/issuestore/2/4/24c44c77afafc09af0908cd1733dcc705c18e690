@@ -1,0 +1,21 @@
+
+º
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(³Ë±üýÿÿÿÿJ$c8c802fd-f3de-4cf2-8fae-8d298b420da0
+¹
+java:S1130"xRemove the declaration of thrown exception 'java.lang.NoSuchMethodException', as it cannot be thrown from method's body.(³Ë±üýÿÿÿÿJ$f98b25eb-e3ed-43ad-90d6-212570eaafcd
+Æ
+java:S1130"„Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException', as it cannot be thrown from method's body.(³Ë±üýÿÿÿÿJ$50bbaacc-96db-40e4-a7fa-cbcf3479f1a1
+º
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(³Ë±üýÿÿÿÿJ$2ab155d4-b40b-4d5a-99a5-9dfd767d2ba0
+º
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(³Ë±üýÿÿÿÿJ$407d555f-5ac5-47ee-a1a7-cc6d3cf7e3e1
+¸
+java:S1130"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(³Ë±üýÿÿÿÿJ$b1a08fde-c73d-4a65-b992-ee8be4d7ea55
+|	java:S125"<This block of commented-out lines of code should be removed.(²×ÙùÿÿÿÿJ$420ff74f-a487-4a82-a8cd-a0595916c872
+|	java:S125"<This block of commented-out lines of code should be removed.(²×ÙùÿÿÿÿJ$f07fafd2-b208-400e-b2f1-184d212f5e94
+|	java:S125'"<This block of commented-out lines of code should be removed.(²×ÙùÿÿÿÿJ$2576253b-259c-4128-8ecc-b0c3bf1e77f8
+w	java:S125."<This block of commented-out lines of code should be removed.(¹ù¬ÔJ$6b72a465-1b2b-4cc1-9575-76d8841f63ef
+|	java:S125D"<This block of commented-out lines of code should be removed.(ôþÞÊÿÿÿÿÿJ$80872d41-ea0b-427c-8dc4-6bd7a28938b6
+w	java:S125O"<This block of commented-out lines of code should be removed.(¹ù¬ÔJ$813f0c65-db4b-4a68-b24f-911e3838d208
+|	java:S125e"<This block of commented-out lines of code should be removed.(´ÒÚùÿÿÿÿJ$4faa19a6-4889-4074-808c-f153f3eb6dd5
+l	java:S106„"+Replace this use of System.out by a logger.(—áÌßÿÿÿÿÿJ$8ff657a2-8a01-456c-a825-8e2d5d5c8ac7

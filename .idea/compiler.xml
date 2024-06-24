@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="annotation" />
         <module name="jvm" />
+        <module name="algorithem" />
         <module name="data-structure" />
         <module name="rpc" />
         <module name="io" />
@@ -15,6 +16,7 @@
         <module name="distributionlock" />
         <module name="leetcode" />
         <module name="redis" />
+        <module name="jdk" />
         <module name="design-pattern" />
         <module name="reflect" />
         <module name="skiplist" />
