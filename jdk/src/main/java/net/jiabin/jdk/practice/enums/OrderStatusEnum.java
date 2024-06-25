@@ -1,4 +1,4 @@
-package com.wzy.enums;
+package net.jiabin.jdk.practice.enums;
 
 /**
  * 订单类型枚举

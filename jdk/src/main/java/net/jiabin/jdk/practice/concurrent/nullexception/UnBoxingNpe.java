@@ -1,4 +1,4 @@
-package com.wzy.concurrent.nullexception;
+package net.jiabin.jdk.practice.concurrent.nullexception;
 
 /**
  * 自动拆箱引发的空指针问题

@@ -1,6 +1,6 @@
 package net.jiabin.jdk.practice.concurrent.imooccache;
 
-import com.wzy.concurrent.imooccache.compute.ExpensiveFunction;
+import net.jiabin.jdk.practice.concurrent.imooccache.compute.ExpensiveFunction;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

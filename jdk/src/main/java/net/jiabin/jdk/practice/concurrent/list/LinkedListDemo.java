@@ -1,4 +1,4 @@
-package com.wzy.concurrent.list;
+package net.jiabin.jdk.practice.concurrent.list;
 
 import java.util.Iterator;
 import java.util.LinkedList;

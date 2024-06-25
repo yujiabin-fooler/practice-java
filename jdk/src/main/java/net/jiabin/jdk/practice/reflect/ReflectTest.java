@@ -13,7 +13,7 @@ public class ReflectTest {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException, NoSuchFieldException {
         // 1、获取class对象
 //        Class<MyClass> myClassClass1 = MyClass.class;
-//        Class<?> myClassClass2 = Class.forName("com.wzy.reflect.MyClass");
+//        Class<?> myClassClass2 = Class.forName("net.jiabin.jdk.practice.reflect.MyClass");
 //        Class<? extends MyClass> myClassClass3 = new MyClass().getClass();
 //
 //        System.out.println(myClassClass1 == myClassClass2);

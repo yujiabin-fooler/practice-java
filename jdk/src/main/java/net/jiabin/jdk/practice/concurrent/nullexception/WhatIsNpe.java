@@ -1,4 +1,4 @@
-package com.wzy.concurrent.nullexception;
+package net.jiabin.jdk.practice.concurrent.nullexception;
 
 /**
  * @author wzy

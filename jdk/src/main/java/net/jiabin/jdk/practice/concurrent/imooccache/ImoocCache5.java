@@ -1,7 +1,7 @@
 package net.jiabin.jdk.practice.concurrent.imooccache;
 
-import com.wzy.concurrent.imooccache.compute.Computable;
-import com.wzy.concurrent.imooccache.compute.ExpensiveFunction;
+import net.jiabin.jdk.practice.concurrent.imooccache.compute.Computable;
+import net.jiabin.jdk.practice.concurrent.imooccache.compute.ExpensiveFunction;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

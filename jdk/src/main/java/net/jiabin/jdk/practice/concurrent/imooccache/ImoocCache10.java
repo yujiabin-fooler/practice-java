@@ -1,7 +1,7 @@
 package net.jiabin.jdk.practice.concurrent.imooccache;
 
-import com.wzy.concurrent.imooccache.compute.Computable;
-import com.wzy.concurrent.imooccache.compute.MayFail;
+import net.jiabin.jdk.practice.concurrent.imooccache.compute.Computable;
+import net.jiabin.jdk.practice.concurrent.imooccache.compute.MayFail;
 
 import java.util.Map;
 import java.util.concurrent.*;
